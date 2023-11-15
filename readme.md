@@ -33,5 +33,5 @@ Before using this Docker Compose setup, make sure you have the following:
 4. Run the following command to start the Traefik container and configure it as a reverse proxy:
 
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
